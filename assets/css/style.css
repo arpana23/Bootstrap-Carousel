@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*.img-responsive{
+    width: 1350px;
+}*/
+.carousel img{
+    width: 100%;
+}
+.navbar{
+    border-radius: 0%;
+    margin-bottom: 0px;
+}
+
+.affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+  
+  .affix ~ .container-fluid {
+   position: relative;
+   top: 50px;
+  }
+.howItWorks{
+    margin: 50px 0px 50px 0px;
+}
+.howItWorks h1{
+    margin: 50px 0px 50px 0px;
+}
+.howItWorks p{
+    line-height: 2.5;
+}
+
