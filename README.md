@@ -1,1 +1,1 @@
-This template is bootstrapped.
+This template is bootstrapped (Responsive).
